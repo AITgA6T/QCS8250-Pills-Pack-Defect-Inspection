@@ -49,6 +49,3 @@ After QCS8250 inspects the defective pills pack, it activates the push rod to pu
 
 <video src="assets/turn_assist.mp4" controls="controls" width="100%"></video>
 
-https://github.com/user-attachments/assets/dd43abf4-0026-4004-952e-acb8e4859322
-
-
